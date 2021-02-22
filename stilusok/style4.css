@@ -1,0 +1,25 @@
+ul{
+width: 50%;
+height: 2cm;
+padding: 1cm 0 0 0;
+border: 20px solid green;
+border-style: dotted;
+position: relative;
+left: 20%;
+text-align: center;
+
+}
+li{
+    background-color: lightseagreen;
+    list-style: none;
+    height: 1cm;
+    padding: 3mm;
+    float: left;
+    white-space: pre-wrap;
+    vertical-align: central;
+    position: relative;
+    left: 18%;
+    margin-right: 5px;
+    display: inline;
+    
+}

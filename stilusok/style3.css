@@ -1,0 +1,13 @@
+p{
+   background-color:lavenderblush;
+    padding: 10px;
+    margin: 1%;
+    width: 20%;
+    float: inline-start;
+    text-align: justify;
+}
+p::first-letter{
+    font-weight: bolder;
+    font-size: larger;
+    color: red;
+}
